@@ -1,0 +1,467 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 6,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Jan-07-2020",
+    "RecordingDuration": 36531,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1578410085,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 3364323,
+    "TotalBytesSent": 9217,
+    "TotalRequests": 20,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "vfsglobalirelandvisa.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "199.42.15.65",
+          "IncludeInScript": true,
+          "Name": "www.vfsglobalirelandvisa.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 438,
+              "EventId": 428,
+              "HttpStatus": 200,
+              "Size": 2490,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/india.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 969,
+              "EventId": 415,
+              "HttpStatus": 200,
+              "Size": 3303,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/hong-kong.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 438,
+              "EventId": 411,
+              "HttpStatus": 200,
+              "Size": 2674,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/ghana.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 1312,
+              "EventId": 397,
+              "HttpStatus": 200,
+              "Size": 30643,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/Visas-Ireland-WT.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 750,
+              "EventId": 391,
+              "HttpStatus": 200,
+              "Size": 2615,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/china.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 671,
+              "EventId": 385,
+              "HttpStatus": 200,
+              "Size": 3151,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/turkey.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 953,
+              "EventId": 376,
+              "HttpStatus": 200,
+              "Size": 1575,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/qatar.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 390,
+              "EventId": 354,
+              "HttpStatus": 200,
+              "Size": 1559,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/peru.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 594,
+              "EventId": 350,
+              "HttpStatus": 200,
+              "Size": 1746,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/nigeria.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 984,
+              "EventId": 325,
+              "HttpStatus": 200,
+              "Size": 109,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/bg.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 390,
+              "EventId": 320,
+              "HttpStatus": 200,
+              "Size": 3260071,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/ireland.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 204,
+              "EventId": 316,
+              "HttpStatus": 200,
+              "Size": 3177,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/pakistan.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 234,
+              "EventId": 312,
+              "HttpStatus": 200,
+              "Size": 6575,
+              "URL": "https://www.vfsglobalirelandvisa.com/images/logo.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 234,
+              "EventId": 310,
+              "HttpStatus": 200,
+              "Size": 572,
+              "URL": "https://www.vfsglobalirelandvisa.com/js/common.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 187,
+              "EventId": 306,
+              "HttpStatus": 200,
+              "Size": 2100,
+              "URL": "https://www.vfsglobalirelandvisa.com/js/jquery.uniform.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 203,
+              "EventId": 232,
+              "HttpStatus": 200,
+              "Size": 2780,
+              "URL": "https://www.vfsglobalirelandvisa.com/css/uniform.default.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 204,
+              "EventId": 190,
+              "HttpStatus": 200,
+              "Size": 1706,
+              "URL": "https://www.vfsglobalirelandvisa.com/css/media-queries.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 313,
+              "EventId": 167,
+              "HttpStatus": 200,
+              "Size": 2843,
+              "URL": "https://www.vfsglobalirelandvisa.com/css/style.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 1172,
+              "EventId": 152,
+              "HttpStatus": 200,
+              "Size": 33467,
+              "URL": "https://www.vfsglobalirelandvisa.com/js/jquery-1.8.2.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 187,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 1167,
+              "URL": "https://www.vfsglobalirelandvisa.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-SHA",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.169.227",
+          "IncludeInScript": false,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 140,
+              "EventId": 218,
+              "HttpStatus": 200,
+              "Size": 77948,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 94,
+              "EventId": 176,
+              "HttpStatus": 200,
+              "Size": 77948,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.169.234",
+          "IncludeInScript": false,
+          "Name": "www.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 203,
+              "EventId": 194,
+              "HttpStatus": 200,
+              "Size": 200,
+              "URL": "https://www.googleapis.com/oauth2/v1/userinfo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 344,
+              "EventId": 169,
+              "HttpStatus": 200,
+              "Size": 213,
+              "URL": "https://www.googleapis.com/oauth2/v1/userinfo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 195,
+              "URL": "https://www.googleapis.com/oauth2/v1/userinfo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 281,
+              "EventId": 132,
+              "HttpStatus": 200,
+              "Size": 331,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 218,
+              "EventId": 129,
+              "HttpStatus": 200,
+              "Size": 891,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 119,
+              "HttpStatus": 200,
+              "Size": 1075,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 109,
+              "HttpStatus": 200,
+              "Size": 1041,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 281,
+              "EventId": 96,
+              "HttpStatus": 200,
+              "Size": 1098,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.169.234",
+          "IncludeInScript": false,
+          "Name": "oauthaccountmanager.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 187,
+              "HttpStatus": 200,
+              "Size": 340,
+              "URL": "https://oauthaccountmanager.googleapis.com/v1/issuetoken"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.18.131",
+          "IncludeInScript": false,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 329,
+              "EventId": 171,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=79"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.169.237",
+          "IncludeInScript": false,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 485,
+              "EventId": 104,
+              "HttpStatus": 200,
+              "Size": 323,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

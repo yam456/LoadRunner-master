@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-PK,en-US;q=0.9,en;q=0.8,ur;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: www.vfsglobalirelandvisa.com
+

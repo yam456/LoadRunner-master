@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.vfsglobalirelandvisa.com",
+                "infFile": "t1.inf",
+                "time": 1578410778726
+            }
+        ],
+        "transactions": []
+    }
+]

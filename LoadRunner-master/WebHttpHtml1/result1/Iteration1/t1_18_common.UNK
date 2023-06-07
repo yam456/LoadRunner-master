@@ -1,0 +1,32 @@
+// JavaScript Document
+$(document).ready(function(e) {
+	
+	$('<select />').appendTo("#responsive_menu");
+	
+	$("<option />", {
+		"selected" : "selected",
+	     "value"   : "#",
+	     "text"    : "Select the Country"
+	 }).appendTo("#responsive_menu select");
+	 
+	$(".flags_wrapper .sub_flags_wrapper .sub_flag a").each(function(index, element) {
+		var el = $(this);
+		var option_value = el.attr('href');
+			
+		var option_text = el.find('.flag_text').html();
+		$("#responsive_menu select").append("<option value=\"" + option_value + "\">" + option_text + "</option>");
+	});
+	
+	$(document).on('change','#responsive_menu select',function(){
+		
+		var option_value = $(this).attr('value');
+		if(option_value != "#")
+		{
+			window.open(option_value);
+		}
+		return false;
+		
+	});
+	
+	$("input, textarea, .header_form select, button").uniform();
+});

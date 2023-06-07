@@ -1,0 +1,48 @@
+Virtual User Script started at: 1/7/2020 8:25:30 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (Nov 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\Sarfraz\TestAutomation\Performance Testing\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(6): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(17): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_url("www.vfsglobalirelandvisa.com") started  	[MsgId: MMSG-26355]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/js/jquery-1.8.2.min.js" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/js/jquery.uniform.min.js" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/js/common.js" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/css/style.css" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/css/media-queries.css" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/css/uniform.default.css" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/logo.png" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/Visas-Ireland-WT.png" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/china.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/ghana.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/hong-kong.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/india.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/nigeria.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/pakistan.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/peru.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/qatar.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/turkey.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/ireland.png" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/bg.png" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(20): web_url("www.vfsglobalirelandvisa.com") was successful, 3921740 body bytes, 7213 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

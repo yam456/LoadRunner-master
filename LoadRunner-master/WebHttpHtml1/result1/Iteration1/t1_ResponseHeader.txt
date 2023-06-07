@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Encoding: gzip
+Last-Modified: Tue, 05 Feb 2019 06:36:32 GMT
+Accept-Ranges: bytes
+ETag: "098d6211dbdd41:0"
+Vary: Accept-Encoding
+Server: NULL
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-XSS-Protection: 1; mode=block
+X-Content-Type: nosniff
+Date: Tue, 07 Jan 2020 15:25:44 GMT
+Content-Length: 1167
+

@@ -1,0 +1,8 @@
+[t10]
+FileName1=t10_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=79
+Total=2
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_client_model_v5_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb

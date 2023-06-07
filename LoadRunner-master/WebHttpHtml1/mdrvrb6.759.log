@@ -1,0 +1,21 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/ireland.png" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/bg.png" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(20): ssl_handle_status encounter error : SSL_ERROR_SYSCALL, error id : 0  	[MsgId: MMSG-26000]
+Action.c(20): Warning -27787: Server "www.vfsglobalirelandvisa.com" has shut down the connection prematurely  	[MsgId: MWAR-27787]
+Action.c(20): ssl_handle_status encounter error : SSL_ERROR_SYSCALL, error id : 0  	[MsgId: MMSG-26000]
+Action.c(20): Warning -27787: Server "www.vfsglobalirelandvisa.com" has shut down the connection prematurely  	[MsgId: MWAR-27787]
+Action.c(20): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://www.vfsglobalirelandvisa.com/js/jquery-1.8.2.min.js". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/peru.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/qatar.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "https://www.vfsglobalirelandvisa.com/images/turkey.jpg" in HTML "https://www.vfsglobalirelandvisa.com/"  	[MsgId: MMSG-26659]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/ireland.png" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(20): Downloading resource "https://www.vfsglobalirelandvisa.com/images/bg.png" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(20): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://www.vfsglobalirelandvisa.com/js/jquery-1.8.2.min.js". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
